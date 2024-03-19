@@ -4,7 +4,7 @@
 
 ## About me
 
-Hi, My name is Andrey. I am student at Birkbeck (evening studies) and now in the process of career switch via exploring Data Science and other relevant tools and techniques.
+Hi, My name is Andrey. I am in the process of career switch via exploring Data Science and other relevant tools and techniques.
 
 ## My top languages
 
