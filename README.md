@@ -1,5 +1,5 @@
 
-<img src="https://www.lipsindia.com/blog/wp-content/uploads/2017/06/data-science.png" alt="Data Science">
+<img src="https://www.fsm.ac.in/blog/wp-content/uploads/2022/07/FUqHEVVUsAAbZB0-1024x580.jpg" alt="Data Science">
 </img>
 
 ## About me
