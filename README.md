@@ -1,5 +1,5 @@
 
-<img src="ds.jpeg" width="50%" height="50%" alt="Data Science">
+<img src="ds.jpeg" width="70%" height="70%" alt="Data Science">
 </img>
 
 ## About me
