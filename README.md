@@ -4,7 +4,7 @@
 
 ## About me
 
-Hi, I'm Andrey, a full time student of Birkbeck, University of London, pursuing Bachelor's degree in Computing. Now I am in the process of career switch via exploring programming languages, tools, and techniques related to Data Science, Machine Learning, AI, Cloud Based Services, etc.
+Hi, I'm Andrey, a final year student of Birkbeck, University of London, Bachelor's degree in Computing. Now I am in the process of career switch via exploring programming languages, tools, and techniques related to Data Science, Machine Learning, AI Agents, LLM, RAG, Cloud Based Services, and Web-development.
 
 ## My top languages
 
